@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\2e63482d130ece6a65c765c74c798a480d6e1873\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_e4ab126fa38dcab801d9d8f7f7a66dbb9dc64565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\2946e78fddc6035d4ba54237aa2f49e844ab9f5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_f9153e3b9753296743b1be14997b9998da466a90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\4db4f0fbd0767396f0ecfa0f88c6c8ca80978291\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_20522ff4d1f055b9f27112b67bffc1803fd40b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\MyARouterTest\lib_icon\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4bd9c94e060344ff6fe79fc227934dc40e9aec62">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_b2f33455f4b79098469f33fcaacb11a2940bc433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\41464f44674e2801bbd9cd39588f12374e5596fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_247b62c946082d8cdeba08ca6d38567ccc890949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\a4dcf6b380274bfd9015efb0f0be690613e6aa4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe03e79c796c9b2615a2ec315e61333834448560">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_c797ce3293028f9cc25817fbeb63525112ea11e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1fbf1e2821a7519ce4b8b151fea094fb377d6e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\ea803a78682ab0412487453f4cc03da8e7e99342\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_a74e01358520f245447d42ad1377f71e1130f2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\af471270e360dba89685053845d9778eb1b608de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_6eaab5379f3d09c88a89e62a294539d431134a42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_924e9b20b6e75524e707977856e72131d2017800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\3bce6bc19db3ea9c15eb3620e88b60589083bd4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_2ea0fb0613fdb3cfd054fc5cf6dc0b62c753da43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\MyARouterTest\module_home\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b0e15d456d9a02432a66ac0367e332a1a5d6087">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_ac1d761c885db3ecf196e32d451c7993da491320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\96a8d86408331d1d6ebd75421a23113109419a02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_669f1ee2e02738a7cf43c0e92db7524b778da20f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\5231947d529b6f107428f5863663ad517c284e6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_4023a50f5299c071ad7e189ece3be766874bbf06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.gradle\caches\modules-2\files-2.1\com.alibaba\arouter-annotation\1.0.4\1a052775986931f733338255dd73829f0ecd10d\arouter-annotation-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01a052775986931f733338255dd73829f0ecd10d">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\arouter-annotation-1.0.4_356a242b9e17217f0ddee81aa590ee452cca723f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\0852a59484b7db432f88881cb70e12a6455b0521\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_0474d94e9736e17a7020036b0c986da4fd34dc19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\MyARouterTest\lib_base\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="889864d37043003e11b90bac486c84c4b185afb3">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_b808623991189d42c329e0fb333a8f60d9064c80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\d4389597b180940c2146da972121a83442493dae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_59b312b7f08882c8af1ee7ab4e807cb4084012de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\MyARouterTest\module_recom\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="075382e0657342779b0b068fe761a84fda285682">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_58189140fe36ba034572466784ae557a35fcd836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.9\3a6e5f623dccd587c3d3cffd4fde80261f326715\fastjson-1.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3a6e5f623dccd587c3d3cffd4fde80261f326715">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\fastjson-1.2.9_aced727dad5c1b1bd834edbf02f715d42c5f7baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\c7140003ceb8206954914403eb22264455f65ce4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_1f0336c2894781807dd6647b6579d6fc822d1729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\MyARouterTest\module_me\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa74bc988598c1e9ed51092a98d2811eaf0666f2">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_dfdc41412cf748a56c10d70c178cec05d25a2d3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\33fe656fb9675684a8b1c864859ab9b114f96972\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="272162d32427e37b0dc05e2272227860b5c8fda0">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_dad246605fa66922d9e0390627915f58609fb4e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\huangdiudiu\.android\build-cache\6c9ef77d46e54d7205d04a14dfaee8040ba8ddc9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_f5bcc88fec33524cec050eb0c77a55efb97dd8cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\MyARouterTest\module_chat\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d146f7dcf07f2abe9b1cec9ccc66e0d973ef45d">
+        <dex dex="G:\android\MyARouterTest\app\build\intermediates\pre-dexed\debug\classes_d8ed6aad21c44b18400649e278bb9b42b06f2fc6.jar" />
+    </item>
+
+</items>
